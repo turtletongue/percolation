@@ -132,7 +132,7 @@ public final class Percolation {
 
         numberOfOpenSites++;
 
-        /* Connect to virtual root */
+        /* Connect to virtual roots */
 
         if (row == FIRST_ROW) {
             percolationUnionFind.union(ufSiteIndex, topRootIndex);
