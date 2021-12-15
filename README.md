@@ -19,4 +19,4 @@ java PercolationStats 2 10000
 java PercolationStats 2 100000
 ```
 
-PercolationStats takes two arguments: n and T, performs T independent computational experiments on an n-by-n grid.
+PercolationStats main method takes two arguments: n and T, performs T independent computational experiments on an n-by-n grid.
